@@ -22,5 +22,5 @@ I am a **Postdoctoral Researcher in Cancer Epigenetics** at **CABIMER** (Andalus
 - **[R-ODAF](https://github.com/jochotecoa/R-ODAF):** (Contributor) Omics Data Analysis Framework for regulatory applications.
 
 ### 📫 Connect with me
-- 🎓 [Google Scholar Profile](https://scholar.google.com/citations?user=L07pZ_oAAAAJ)
+- 🎓 [Google Scholar Profile](https://scholar.google.es/citations?user=Unr7tRsAAAAJ)
 - 📍 Seville, Spain
